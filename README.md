@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gurenkamaniteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gurenkamaniteja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manitejagurenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manitejagurenka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manitejaraogurenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manitejagurenka" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/maniteja-rao-gurenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maniteja-rao-gurenka" height="30" width="40" /></a>
 <a href="https://instagram.com/manitejarao.gurenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manitejarao.gurenka" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/manitejaraogurenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manitejaraogurenka" height="30" width="40" /></a>
