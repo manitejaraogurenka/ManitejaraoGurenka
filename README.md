@@ -1,7 +1,7 @@
 [![MasterHead](https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.gif)](https://manitejagurenka.io)
 <h1 align="center">Hi 👋, I'm Maniteja Gurenka</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
+<img align="right" alt="Coding" width="400" style="border-radius: 50%" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manitejagurenka&label=Profile%20views&color=0e75b6&style=flat" alt="manitejagurenka" /> </p>
