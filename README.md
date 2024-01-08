@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://manitejagurenka.io)
+[![MasterHead](https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.gif)](https://manitejagurenka.io)
 <h1 align="center">Hi 👋, I'm Maniteja Gurenka</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
